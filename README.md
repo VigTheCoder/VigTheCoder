@@ -1,7 +1,7 @@
 ## Hi, I'm Vignesh 👋
 
 <div align="center">
-  <img src="Image.jpeg" alt="Circular Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+  <img src="Image.jpg" alt="Circular Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
 </div>
 </br>
 
