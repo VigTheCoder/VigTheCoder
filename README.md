@@ -6,7 +6,7 @@
 </br>
 
 <p align="Justify">
-I am passionate about development, always striving to build scalable and efficient solutions. I enjoy creating products that not only meet user needs but also enhance their overall experience. Continuous learning and exploring new technologies are essential parts of my journey as I work to improve and innovate. My expertise lies in developing secure, high-performance web applications, with a proven track record of delivering innovative e-commerce solutions. 
+I am passionate about development, always striving to build scalable and efficient solutions. I enjoy creating products that not only meet user needs but also enhance their overall experience. Continuous learning and exploring new technologies are essential parts of my journey as I work to improve and innovate. My expertise lies in developing secure, high-performance web applications, with a proven track record of delivering innovative solutions. 
 </p>
 
 - 🔭 I’m currently working on building robust, scalable platforms and exploring advanced performance optimization techniques.
