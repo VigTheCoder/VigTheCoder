@@ -12,8 +12,6 @@
 - 💻 <strong>Passionate about development</strong>, always working towards crafting better solutions.
 - 🚀 <strong>Focused on optimizing performance</strong> and creating seamless user experiences.
 - 🔍 Constantly <strong>exploring new technologies</strong> to stay innovative and ahead of the curve.
-- 💡 Eager to <strong>collaborate</strong> on exciting and <strong>impactful projects</strong> that make a difference.
-
 
 
 
