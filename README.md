@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Vignesh 👋
 
-<!--
-**VigTheCoder/VigTheCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="Image.jpeg" alt="Circular Image" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover;">
+</div>
+</br>
 
-Here are some ideas to get you started:
+<p align="Justify">
+I am passionate about development, always striving to build scalable and efficient solutions. I enjoy creating products that not only meet user needs but also enhance their overall experience. Continuous learning and exploring new technologies are essential parts of my journey as I work to improve and innovate. My expertise lies in developing secure, high-performance web applications, with a proven track record of delivering innovative e-commerce solutions. 
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building robust, scalable platforms and exploring advanced performance optimization techniques.
+- 🤔 I’m looking for opportunities where I can leverage my expertise in software engineering to contribute to dynamic teams and impactful projects.
+
+
+
+
+  
